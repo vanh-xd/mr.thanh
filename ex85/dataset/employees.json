@@ -1,0 +1,26 @@
+[
+    {
+        "employeeID": "e1",
+        "employeeName": "john",
+        "userName": "john",
+        "password": "123"
+    },
+    {
+        "employeeID": "e2",
+        "employeeName": "tom",
+        "userName": "tom",
+        "password": "456"
+    },
+    {
+        "employeeID": "e3",
+        "employeeName": "peter",
+        "userName": "peter",
+        "password": "789"
+    },
+    {
+        "employeeID": "e4",
+        "employeeName": "cf",
+        "userName": "cf",
+        "password": "cfsua"
+    }
+]

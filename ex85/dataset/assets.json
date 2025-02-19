@@ -1,0 +1,26 @@
+[
+    {
+        "assetID": "a1",
+        "assetName": "led monitor",
+        "importYear": 2019,
+        "value": 200
+    },
+    {
+        "assetID": "a2",
+        "assetName": "projector",
+        "importYear": 2024,
+        "value": 20
+    },
+    {
+        "assetID": "a3",
+        "assetName": "laptop",
+        "importYear": 2011,
+        "value": 89
+    },
+    {
+        "assetID": "a4",
+        "assetName": "car",
+        "importYear": 2017,
+        "value": 300
+    }
+]
