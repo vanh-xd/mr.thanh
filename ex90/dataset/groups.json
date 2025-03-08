@@ -1,0 +1,14 @@
+[
+    {
+        "GroupID": "g1",
+        "GroupName": "thiet bi vat ly"
+    },
+    {
+        "GroupID": "g2",
+        "GroupName": "thiet bi hoa hoc"
+    },
+    {
+        "GroupID": "g3",
+        "GroupName": "thiet bi sinh hoc"
+    }
+]

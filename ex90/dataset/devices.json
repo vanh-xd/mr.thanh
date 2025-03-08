@@ -1,0 +1,27 @@
+[
+    {
+        "GroupID": "g1",
+        "DeviceID": "dv1",
+        "DeviceName": "qua nang"
+    },
+    {
+        "GroupID": "g1",
+        "DeviceID": "dv2",
+        "DeviceName": "thuoc do"
+    },
+    {
+        "GroupID": "g2",
+        "DeviceID": "dv3",
+        "DeviceName": "ong dung thuy tinh"
+    },
+    {
+        "GroupID": "g3",
+        "DeviceID": "dv4",
+        "DeviceName": "mau thu nghiem"
+    },
+    {
+        "GroupID": "g3",
+        "DeviceID": "dv5",
+        "DeviceName": "dao phau thuat"
+    }
+]
